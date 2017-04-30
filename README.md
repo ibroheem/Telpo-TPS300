@@ -11,4 +11,4 @@ Some dependencies used in extending capabilities, e.g C++11 nullptr support from
 1. ArduinoJson
 2. ETL (Embedded Template Library)
 
-Check wiki for more information.
+Check the [wiki](https://github.com/ibroheem/Telpo-TPS300/wiki) for more information.
