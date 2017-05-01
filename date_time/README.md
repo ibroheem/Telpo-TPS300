@@ -1,0 +1,1 @@
+**The name ttime.h was used inorder to prevent collision with the standard library<time.h>**
