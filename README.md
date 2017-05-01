@@ -1,6 +1,7 @@
 # Telpo-TPS300
 
-Contains Useful code examples to get a programmer started with the TPS300 series.
+Contains Useful code examples to get a programmer started with the TPS300 series.  
+**Note**: There is a TPS300 and TPS300A. TPS300A is programming encironment is Linux, flashing is on Windows - **wierd?!**. The TPS300 programming and flashing environment is on Windows.
 
 Contents:
 1. Compilation instruction for C++. C is said to be supported by default. I strongly **defer**  with those guys, as I'm more confortable with C++ and there's a C++ compiler bundled with the SDK. And with C++ you can produce less executable size than (why? less code), ofcourse iff you really know C++.
