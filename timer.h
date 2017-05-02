@@ -5,7 +5,7 @@ namespace gpos
 {
    namespace timer
    {
-      void start_ms(const uint32 delay) //delay in secs
+      void start_ms(const uint32 delay) ///delay in secs
       {
          int16 timer = TP_TimerAllocate();
          if (timer < 0)
