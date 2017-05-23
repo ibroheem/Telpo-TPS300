@@ -10,6 +10,7 @@
 
 #define to_string_c(val) #val
 
+
 namespace gpos
 {
    namespace misc
