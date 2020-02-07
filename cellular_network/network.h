@@ -145,9 +145,9 @@ namespace tests
       int16 ret = 0;
 
       gprs_network_t net;
-      net.set_apn("web.gprs.mtnnigeria.net");
-      net.set_username("web");
-      net.set_password("web");
+      net.set_apn("apn");
+      net.set_username("pass");
+      net.set_password("pass");
 
       if (net.connect())
       {
